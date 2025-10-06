@@ -1,0 +1,29 @@
+Phần 1: Word
+1. Định dạng font
+	- Font header(tên font, kích cỡ)
+	- Font của các style(sử dụng tạo mục lục)
+2. Căn chỉnh văn bản:
+	- Giãn dòng (line space)
+	- Giãn đều 2 bên
+	- Thiết lập layout (khổ giấy) -> Layout/pagesetup
+	- Chèn bảng phải căn chỉnh bảng
+
+Phần 2: Excel
+Thực hành lại các hàm:
+	SUM, COUNT MAX, MIN, IF
+	SUMIF và SUMIFs (Tính tổng theo điều kiện)
+	COUNTIF và COUNTIFs (Đếm theo điều kiện)
+	IFs (Nếu theo điều kiện)
+	LEFT, RIGHT, TEXT, ROUND
+	Vẽ biểu đồ theo bảng dữ liệu
+
+Phần 3: Powerpoint
+1. Sử dụng Animation
+2. Sử dụng Transition
+3. Tạo link giữa các nội dung
+4. Chèn ảnh từ excel
+
+
+
+
+
